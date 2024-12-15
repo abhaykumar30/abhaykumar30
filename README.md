@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhay Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Leaning Web developer from India</h3>
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhai-kumar](https://github.com/abhai-kumar)
 
