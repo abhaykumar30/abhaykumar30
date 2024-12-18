@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abhai-kumar](https://github.com/abhaykumar30)
+- 👨‍💻 All of my projects are available at [https://github.com/abhaykumar30](https://github.com/abhaykumar30)
 
 - 📫 How to reach me **ar5703233@gmail.com**
 
